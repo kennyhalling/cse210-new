@@ -1,0 +1,10 @@
+Current Points:3400
+Marriage: Simple,Get married in the temple.,1000,Completed
+Homework: Simple,Finish this program,10,Abandoned
+Good Night: Simple,Go to bed on time tomorrow.,10,Completed
+Study Time: Eternal,Study the BOM every day for an hour,10,Done!
+Temple Trip: Checklist,Go to the temple 10 times,100,10,10
+Simple Goal: Simple,Make a simple goal,10,Completed
+Simple 2: Simple,Just another simple goal,10,Abandoned
+Eternal Goal: Eternal,An everyday goal,10,Done!
+Checklist Goal: Checklist,A checklist goal,20,6,5
