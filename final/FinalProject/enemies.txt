@@ -1,0 +1,798 @@
+Name,AC,HP,STR,DEX,CON,INT,WIS,CHA
+Aarakocra,12,13,10,14,10,11,12,11
+Aboleth,17,135,21,9,15,18,15,18
+Albino Dwarf Warrior,13,30,13,13,17,12,14,11
+Aldani (Lobsterfolk),14,49,13,8,12,10,14,10
+Allip,13,40,6,17,10,17,15,16
+Almiraj,13,3,2,16,10,2,14,10
+Ambush Drake,13,22,13,15,14,4,11,6
+"Angel-Deva",17,136,18,18,18,17,20,20
+"Angel-Planetar",19,200,24,20,24,19,22,25
+"Angel-Solar",21,243,26,22,26,25,25,30
+"Animated Object-Armor",18,33,14,11,13,1,3,1
+"Animated Object-Broom of Attack",15,17,10,17,10,1,5,1
+"Animated Object-Flying Sword",17,17,12,15,11,1,5,1
+"Animated Object-Rug of Smothering",12,33,17,14,10,1,3,1
+"Animated Object-Table",15,39,18,8,13,1,3,1
+Ankheg,14,39,17,11,13,1,13,6
+Assassin Vine,13,85,18,10,16,1,10,1
+"Assorted Beast-Aurochs",11,38,20,10,19,2,12,5
+"Assorted Beast-Cattle",10,15,18,10,14,2,10,4
+"Assorted Beast-Dolphin",12,11,14,13,13,6,12,7
+"Assorted Beast-Swarm of Rot Grubs",8,22,2,7,10,1,2,1
+Astral Dreadnought,20,297,28,7,25,5,14,18
+Atropal,7,225,19,5,22,25,19,24
+Awakened Zurkhwood,13,59,19,6,15,10,10,7
+Azer,17,39,17,12,15,12,13,10
+Baba Lysaga's Creeping Hut,16,263,26,7,20,1,3,3
+Balhannoth,17,114,17,8,18,6,15,8
+Banderhobb,15,84,20,12,20,11,14,8
+Banshee,12,58,1,14,10,12,11,17
+Barghest,17,90,19,15,14,13,12,14
+Basilisk,15,52,16,8,15,2,8,7
+Behir,17,168,23,16,18,7,16,12
+Beholder,18,180,10,14,18,17,15,17
+"Beholder-Death Kiss",16,161,18,14,18,10,12,10
+"Beholder-Death Tyrant",19,187,10,14,14,19,15,19
+"Beholder-Gauth",15,67,10,14,16,15,15,13
+"Beholder-Gazer",13,13,3,17,14,3,10,7
+"Beholder-Spectator",14,39,8,14,14,13,14,11
+Berbalang,14,38,9,16,9,17,11,10
+Black Earth Guard,18,39,17,11,14,10,10,9
+Black Earth Priest,17,45,15,11,14,12,10,16
+"Black Earth-Burrowshark",18,82,18,12,16,10,11,13
+"Black Earth-Sacred Stone Monk",14,22,13,15,12,10,14,9
+"Black Earth-Stonemelder",17,75,15,10,16,12,11,17
+"Blight-Needle",12,11,12,12,13,4,8,3
+"Blight-Tree",15,149,23,10,20,6,10,3
+"Blight-Twig",13,4,6,13,12,4,8,3
+"Blight-Vine",12,26,15,8,14,5,10,3
+Bodak,15,58,15,16,15,7,12,12
+Boggle,14,18,8,18,13,6,12,7
+Boneclaw,16,127,19,16,15,13,15,9
+Bugbear,16,27,15,14,13,8,11,9
+Bugbear Chief,17,65,17,14,14,11,12,11
+Bulette,17,94,19,11,21,2,10,5
+Bullywug,15,11,12,12,13,7,10,7
+Cadaver Collector,17,189,21,14,20,5,11,8
+Cambion,19,82,18,18,16,14,12,16
+Carrion Crawler,13,51,14,13,16,1,12,5
+Catoblepas,14,84,19,12,21,3,4,8
+Cave Fisher,16,58,16,13,14,3,10,3
+Centaur,12,45,18,14,14,9,13,11
+Centaur Mummy,13,85,20,12,16,5,14,12
+Chimera,14,114,19,11,19,3,14,10
+Chitine,14,18,10,14,12,10,10,7
+"Chitine-Choldrith",15,66,12,16,12,11,14,10
+Choker,16,13,16,14,13,4,12,7
+Chuul,16,93,19,10,16,5,11,5
+Chwinga,15,5,1,20,10,14,16,16
+Cloaker,14,78,17,15,12,13,12,14
+"Clockwork-Bronze Scout",13,18,10,16,11,3,14,1
+"Clockwork-Iron Cobra",13,45,12,16,14,3,10,1
+"Clockwork-Oaken Bolter",16,58,12,18,15,3,10,1
+"Clockwork-Stone Defender",16,52,19,10,17,3,10,1
+Cockatrice,11,27,6,12,12,2,13,5
+Corpse Flower,12,127,14,14,16,7,15,3
+Couatl,19,97,16,20,17,18,20,18
+Crag Cat,13,34,16,17,16,4,14,8
+Cranium Rat,12,2,2,14,10,4,11,8
+"Cranium Rat-Swarm",12,36,9,14,10,15,11,14
+Crawling Claw,12,2,13,14,11,5,10,4
+Crushing Wave Priest,13,52,15,11,14,10,11,16
+Crushing Wave Reaver,14,22,15,14,13,10,11,8
+"Crushing Wave-Dark Tide Knight",13,58,17,16,14,10,11,11
+"Crushing Wave-Fathomer",10,52,14,11,14,11,11,15
+"Crushing Wave-One-Eyed Shiver",12,49,10,14,12,13,13,17
+Cyclops,14,138,22,11,20,8,6,10
+Darkling,14,13,9,16,12,10,12,10
+Darkling Elder,15,27,13,17,12,10,14,13
+Darkmantle,11,22,16,12,13,2,10,5
+Death Knight,20,180,20,11,20,12,16,18
+Deathlock,12,36,11,15,10,14,12,16
+Deathlock Mastermind,13,110,11,16,12,15,12,17
+Deathlock Wight,12,37,11,14,16,12,14,16
+Decapus,14,75,15,14,14,4,10,7
+Deep Scion,11,67,18,13,16,10,12,14
+Demilich,20,80,1,20,10,20,17,20
+"Demon Lord-Baphomet",22,275,30,14,26,18,24,16
+"Demon Lord-Demogorgon",22,406,29,14,26,20,17,25
+"Demon Lord-Fraz-Urb'Luu",18,337,29,12,25,26,24,26
+"Demon Lord-Graz'Zt",20,346,22,15,21,23,21,26
+"Demon Lord-Juiblex",18,350,24,10,23,20,20,16
+"Demon Lord-Orcus",20,405,27,14,25,20,20,25
+"Demon Lord-Yeenoghu",20,333,29,16,23,15,24,15
+"Demon Lord-Zuggtmoy",18,304,22,15,18,20,19,24
+"Demon-Abyssal Wretch",11,18,9,12,11,5,8,5
+"Demon-Alkilith",17,157,12,19,22,6,11,7
+"Demon-Armanite",16,84,21,18,21,8,12,13
+"Demon-Babau",16,82,19,16,16,11,12,13
+"Demon-Balor",19,262,26,15,22,20,16,22
+"Demon-Barlgura",15,68,18,15,16,7,14,9
+"Demon-Bulezau",14,52,15,14,17,8,9,6
+"Demon-Chasme",15,84,15,15,12,11,14,10
+"Demon-Draegloth",15,123,20,15,18,13,11,11
+"Demon-Dretch",11,18,11,11,12,5,8,3
+"Demon-Dybbuk",14,37,6,19,16,16,15,14
+"Demon-Glabrezu",17,157,20,15,21,19,17,16
+"Demon-Goristro",19,310,25,11,25,6,13,14
+"Demon-Hezrou",16,136,19,17,20,5,12,13
+"Demon-Manes",9,9,10,9,13,3,8,4
+"Demon-Marilith",18,189,18,20,20,18,16,20
+"Demon-Maurezhi",15,88,14,17,12,11,12,15
+"Demon-Maw",13,33,14,8,13,5,8,5
+"Demon-Molydeus",19,216,28,22,25,21,24,24
+"Demon-Nabassu",18,190,22,14,21,14,15,17
+"Demon-Nalfeshnee",18,184,21,10,22,19,12,15
+"Demon-Quasit",13,7,5,17,10,7,10,10
+"Demon-Rutterkin",12,37,14,15,17,5,12,6
+"Demon-Shadow",13,66,1,17,12,14,13,14
+"Demon-Shoosuva",14,110,18,13,17,7,14,9
+"Demon-Sibriex",19,150,10,3,23,25,24,25
+"Demon-Vrock",15,104,17,15,18,8,13,8
+"Demon-Wastrilith",18,157,19,18,21,19,12,14
+"Demon-Yochlol",15,136,15,14,18,13,15,15
+Derro,13,13,10,14,12,11,5,9
+Derro Savant,13,36,9,14,12,11,5,14
+"Devil-Abishai-Black",15,58,14,17,14,13,16,11
+"Devil-Abishai-Blue",19,195,15,14,17,22,23,18
+"Devil-Abishai-Green",18,187,12,17,16,17,12,19
+"Devil-Abishai-Red",22,255,23,16,19,14,15,19
+"Devil-Abishai-White",15,68,16,11,18,11,12,13
+"Devil-Amnizu",21,202,11,13,16,20,12,18
+"Devil-Arch-Bael",18,189,24,17,20,21,24,24
+"Devil-Arch-Geryon",19,300,29,17,22,19,16,23
+"Devil-Arch-Hutijin",19,200,27,15,25,23,19,25
+"Devil-Arch-Moloch",19,253,26,19,22,21,18,23
+"Devil-Arch-Titivilus",20,127,19,22,17,24,22,26
+"Devil-Arch-Zariel",21,580,27,24,28,26,27,30
+"Devil-Barbed",15,110,16,17,18,12,14,14
+"Devil-Bearded",13,52,16,15,15,9,11,11
+"Devil-Bone",19,142,18,16,18,13,14,16
+"Devil-Chain",16,85,18,15,18,11,12,14
+"Devil-Erinyes",18,153,18,16,18,14,14,18
+"Devil-Hellfire Engine",18,216,20,16,24,2,10,1
+"Devil-Horned",18,178,22,17,21,12,16,17
+"Devil-Ice",18,180,21,14,18,18,15,18
+"Devil-Imp",13,10,6,17,13,11,12,14
+"Devil-Lemure",7,13,10,5,11,1,11,3
+"Devil-Merregon",16,45,18,14,17,6,12,8
+"Devil-Narzugon",20,112,20,10,17,16,14,19
+"Devil-Nupperibo",13,11,16,11,13,3,8,1
+"Devil-Orthon",17,105,22,16,21,15,15,16
+"Devil-Pit Fiend",19,300,26,14,24,22,18,24
+"Devil-Spined",15,22,10,15,12,11,14,8
+Devourer,16,178,20,12,20,13,10,16
+"Dinosaur-Allosaurus",13,51,19,13,17,2,12,5
+"Dinosaur-Ankylosaurus",15,68,19,11,15,2,12,5
+"Dinosaur-Brontosaurus",15,121,21,9,17,2,10,7
+"Dinosaur-Deinonychus",13,26,15,15,14,4,12,6
+"Dinosaur-Dimetrodon",12,19,14,10,15,2,10,5
+"Dinosaur-Hadrosaurus",11,19,15,10,13,2,10,5
+"Dinosaur-Plesiosaurus",13,68,18,15,16,2,12,5
+"Dinosaur-Pteranodon",13,13,12,15,10,2,9,5
+"Dinosaur-Quetzalcoatlus",13,30,15,13,13,2,10,5
+"Dinosaur-Stegosaurus",13,76,20,9,17,2,11,5
+"Dinosaur-Triceratops",13,95,22,9,17,2,11,5
+"Dinosaur-Tyrannosaurus Rex",13,136,25,10,19,2,12,9
+"Dinosaur-Velociraptor",13,10,6,14,13,4,12,6
+Displacer Beast,13,85,18,15,16,6,12,8
+Doppelganger,14,52,11,18,14,11,12,14
+"Dragon-Chromatic-Black-Adult",19,195,23,14,21,14,13,17
+"Dragon-Chromatic-Black-Ancient",22,367,27,14,25,16,15,19
+"Dragon-Chromatic-Black-Wyrmling",17,33,15,14,13,10,11,13
+"Dragon-Chromatic-Black-Young",18,127,19,14,17,12,11,15
+"Dragon-Chromatic-Blue-Adult",19,225,25,10,23,16,15,19
+"Dragon-Chromatic-Blue-Ancient",22,481,29,10,27,18,17,21
+"Dragon-Chromatic-Blue-Wyrmling",17,52,17,10,15,12,11,15
+"Dragon-Chromatic-Blue-Young",18,152,21,10,19,14,13,17
+"Dragon-Chromatic-Green-Adult",19,207,23,12,21,18,15,17
+"Dragon-Chromatic-Green-Ancient",21,385,27,12,25,20,17,19
+"Dragon-Chromatic-Green-Wyrmling",17,38,15,12,13,14,11,13
+"Dragon-Chromatic-Green-Young",18,136,19,12,17,16,13,15
+"Dragon-Chromatic-Red-Adult",19,256,27,10,25,16,13,21
+"Dragon-Chromatic-Red-Ancient",22,546,30,10,29,18,15,23
+"Dragon-Chromatic-Red-Wyrmling",17,75,19,10,17,12,11,15
+"Dragon-Chromatic-Red-Young",18,178,23,10,21,14,11,19
+"Dragon-Chromatic-White-Adult",18,200,22,10,22,8,12,12
+"Dragon-Chromatic-White-Ancient",20,333,26,10,26,10,13,14
+"Dragon-Chromatic-White-Wyrmling",16,32,14,10,14,5,10,11
+"Dragon-Chromatic-White-Young",14,133,18,10,18,6,11,12
+"Dragon-Metallic-Brass-Adult",18,172,23,10,21,14,13,17
+"Dragon-Metallic-Brass-Ancient",20,297,27,10,25,16,15,19
+"Dragon-Metallic-Brass-Wyrmling",16,16,15,10,13,10,11,13
+"Dragon-Metallic-Brass-Young",17,110,19,10,17,12,11,15
+"Dragon-Metallic-Bronze-Adult",19,212,25,10,23,16,15,19
+"Dragon-Metallic-Bronze-Ancient",22,444,29,10,27,18,17,21
+"Dragon-Metallic-Bronze-Wyrmling",17,32,17,10,15,12,11,15
+"Dragon-Metallic-Bronze-Young",18,142,21,10,19,14,13,17
+"Dragon-Metallic-Copper-Adult",18,184,23,12,21,18,15,17
+"Dragon-Metallic-Copper-Ancient",21,350,27,12,25,20,17,19
+"Dragon-Metallic-Copper-Wyrmling",16,22,15,12,13,14,11,13
+"Dragon-Metallic-Copper-Young",17,119,19,12,17,16,13,15
+"Dragon-Metallic-Gold-Adult",19,256,27,14,25,16,15,24
+"Dragon-Metallic-Gold-Ancient",22,546,30,14,29,18,17,28
+"Dragon-Metallic-Gold-Wyrmling",17,60,19,14,17,14,11,16
+"Dragon-Metallic-Gold-Young",18,178,23,14,21,16,13,20
+"Dragon-Metallic-Silver-Adult",19,243,27,10,25,16,13,21
+"Dragon-Metallic-Silver-Ancient",22,487,30,10,29,18,15,23
+"Dragon-Metallic-Silver-Wyrmling",17,45,19,10,17,12,11,15
+"Dragon-Metallic-Silver-Young",18,168,23,10,21,14,11,19
+"Dragon-Turtle",20,341,25,10,20,10,12,12
+Dragonclaw,14,16,9,16,13,11,10,12
+Dragonfang,15,78,11,16,14,12,12,14
+Dragonsoul,16,110,11,18,14,13,12,16
+Dragonwing,14,32,9,16,13,11,10,12
+Dread Warrior,18,37,15,11,16,10,12,10
+Drider,19,123,16,16,18,13,14,12
+Drow,15,13,10,14,10,11,11,12
+Drow Arachnomancer,15,162,11,17,14,19,14,16
+Drow Elite Warrior,18,71,13,18,14,11,13,12
+Drow Favored Consort,15,225,15,20,16,18,15,18
+Drow House Captain,16,162,14,19,15,12,14,13
+Drow Inquisitor,16,143,11,15,14,16,21,20
+Drow Mage,12,45,9,14,10,17,13,12
+Drow Matron Mother,17,262,12,18,16,17,21,22
+Drow Priestess of Lolth,16,71,10,14,12,13,17,18
+Drow Shadowblade,17,150,14,21,16,12,14,13
+Dryad,11,22,1,12,11,14,15,18
+Duergar,16,26,14,11,14,11,10,9
+Duergar Darkhaft,16,26,14,11,14,11,10,9
+Duergar Despot,21,119,20,5,19,15,14,13
+Duergar Hammerer,17,33,17,7,12,5,5,5
+Duergar Kavalrachni,16,26,14,11,14,11,10,9
+Duergar Keeper of the Flame,16,26,14,11,14,11,10,9
+Duergar Mind Master,14,39,11,17,14,15,10,12
+Duergar Screamer,15,38,18,7,12,5,5,5
+Duergar Soulblade,14,18,11,16,10,11,10,12
+Duergar Spy,15,33,10,16,12,12,10,13
+Duergar Stone Guard,18,39,18,11,14,11,10,9
+Duergar Warlord,20,75,18,11,17,12,12,14
+Duergar Xarrorn,18,26,16,11,14,11,10,9
+Eblis,13,26,11,16,12,12,14,11
+Eidolon,9,63,7,8,9,14,19,16
+"Eidolon-Sacred Statue",19,95,19,8,19,14,19,16
+"Eladrin-Autumn",19,127,12,16,16,14,17,18
+"Eladrin-Spring",19,127,14,16,16,18,11,18
+"Eladrin-Summer",19,127,19,21,16,14,12,18
+"Eladrin-Winter",19,127,11,10,16,18,17,13
+"Elder Elemental-Elder Tempest",19,264,23,28,23,2,21,18
+"Elder Elemental-Leviathan",17,328,30,24,30,2,18,17
+"Elder Elemental-Phoenix",18,175,19,26,25,2,21,18
+"Elder Elemental-Zaratan",21,307,30,10,30,2,21,18
+"Elemental Myrmidon-Air",18,117,18,14,14,9,10,10
+"Elemental Myrmidon-Earth",18,127,18,10,17,8,10,10
+"Elemental Myrmidon-Fire",18,123,13,18,15,9,10,10
+"Elemental Myrmidon-Water",18,127,18,14,15,8,10,10
+"Elemental-Air",15,90,14,20,14,6,10,6
+"Elemental-Earth",17,126,20,8,20,5,10,5
+"Elemental-Fire",13,102,10,17,16,6,10,7
+"Elemental-Water",14,114,18,14,18,5,10,8
+Empyrean,22,313,30,21,30,21,22,27
+Eternal Flame Guardian,17,45,15,13,14,8,11,13
+Eternal Flame Priest,12,52,12,15,14,10,11,16
+"Eternal Flame-Flamewrath",12,105,10,14,16,11,10,16
+"Eternal Flame-Razerblast",17,112,16,11,16,9,10,13
+Ettercap,13,44,14,15,13,7,12,8
+Ettin,12,85,21,8,17,6,10,8
+Faerie Dragon,15,14,3,20,13,14,12,16
+Firenewt Warlock of Imix,10,33,13,11,12,9,11,14
+Firenewt Warrior,16,22,10,13,12,7,11,8
+Flail Snail,16,52,17,5,20,3,10,5
+Flameskull,13,40,1,17,14,16,10,11
+Flumph,12,7,6,15,10,14,14,11
+Flying Monkey,12,3,8,14,11,5,12,6
+Fomorian,14,149,23,10,20,9,14,6
+Froghemoth,14,184,23,13,20,2,12,5
+"Fungus-Gas Spore",5,1,5,1,3,1,1,1
+"Fungus-Shrieker",5,13,1,1,10,1,10,3
+"Fungus-Violet",5,18,3,1,10,1,3,1
+Galeb Duhr,16,85,20,14,20,11,12,11
+Gargoyle,15,52,15,11,16,6,11,7
+"Gargoyle-Giant Four-Armed",17,147,19,11,20,6,11,9
+"Genie-Dao",18,187,23,12,24,12,13,14
+"Genie-Djinni",17,161,21,15,22,15,16,20
+"Genie-Efreeti",17,200,22,12,24,16,15,16
+"Genie-Marid",17,229,22,12,26,18,17,18
+Geonid,17,26,12,10,16,9,14,11
+Ghost,11,45,7,13,10,10,12,17
+Ghoul,12,22,13,15,10,7,10,6
+"Ghoul-Ghast",13,36,16,17,10,11,10,8
+Giant Crayfish,15,45,15,13,13,1,9,3
+Giant Fly,11,19,14,13,13,2,10,3
+Giant Ice Toad,14,52,16,13,14,8,10,6
+Giant Lightning Eel,13,42,11,17,16,2,12,3
+Giant Snapping Turtle,17,75,19,10,14,2,12,5
+Giant Strider,14,22,18,13,14,4,12,6
+Giant Subterranean Lizard,14,66,21,9,17,2,10,7
+"Giant-Cloud",14,200,27,10,22,12,16,16
+"Giant-Cloud-Smiling One",15,262,26,12,22,15,16,17
+"Giant-Fire",18,162,25,9,23,10,14,13
+"Giant-Fire-Dreadnought",21,187,27,9,23,8,10,11
+"Giant-Frost",15,138,23,9,21,9,10,12
+"Giant-Frost-Everlasting One",15,189,25,9,24,9,10,12
+"Giant-Hill",13,105,21,8,19,5,9,6
+"Giant-Hill-Mouth of Grolantor",14,105,21,10,18,5,7,5
+"Giant-Stone",17,126,23,15,20,10,12,9
+"Giant-Stone-Dreamwalker",18,161,23,14,21,10,8,12
+"Giant-Storm",16,230,29,14,20,16,18,18
+"Giant-Storm-Quintessent",12,230,29,14,20,17,20,19
+Gibbering Mouther,9,67,10,8,16,3,10,6
+Giff,16,60,18,14,17,11,12,12
+Girallon,13,59,18,16,16,5,12,7
+Githyanki Gish,17,123,17,15,14,16,15,16
+Githyanki Kith'Rak,18,180,18,16,17,16,15,17
+Githyanki Knight,18,91,16,14,15,14,14,15
+Githyanki Supreme Commander,18,187,19,17,18,16,16,18
+Githyanki Warrior,17,49,15,14,12,13,13,10
+Githzerai Anarch,20,144,16,21,18,18,20,14
+Githzerai Enlightened,18,112,14,19,16,17,19,13
+Githzerai Monk,14,38,12,15,12,13,14,10
+Githzerai Zerth,17,84,13,18,15,16,17,12
+Gnoll,15,22,14,12,11,6,10,7
+Gnoll Fang of Yeenoghu,14,65,17,15,15,10,11,13
+Gnoll Flesh Gnawer,14,22,12,14,12,8,10,8
+Gnoll Hunter,13,22,14,14,12,8,12,8
+Gnoll Pack Lord,15,49,16,14,13,8,11,9
+Gnoll Witherling,12,11,14,8,12,5,5,5
+"Gnoll-Flind",16,127,20,10,19,11,13,12
+"Gnome-Deep (Svirfneblin)",15,16,15,14,14,12,10,9
+Goblin,15,7,8,14,10,10,8,8
+Goblin Boss,17,21,10,14,10,10,8,10
+"Golem-Clay",14,133,20,9,18,3,8,1
+"Golem-Flesh",9,93,19,9,18,6,10,5
+"Golem-Iron",20,210,24,9,20,3,11,1
+"Golem-Stone",17,178,22,9,20,3,11,1
+Gorgon,19,114,20,11,18,2,12,7
+Gray Render,19,189,19,13,20,3,6,8
+Grell,12,55,15,14,13,12,11,9
+Grick,14,27,14,14,11,3,14,5
+Grick Alpha,18,75,18,16,15,4,14,9
+Griffon,12,59,18,15,16,2,13,8
+Grimlock,11,11,16,12,12,9,8,6
+Grung,12,11,7,14,15,10,11,10
+Grung Elite Warrior,13,49,7,16,15,10,11,12
+Grung Wildling,13,27,7,16,15,10,15,11
+Guard Drake,14,52,16,11,16,4,10,7
+Guardian Portrait,5,22,1,1,10,14,10,10
+"Hag-Annis",17,75,21,12,14,13,14,15
+"Hag-Bheur",17,91,13,16,14,12,13,16
+"Hag-Green",17,82,18,12,16,13,14,14
+"Hag-Night",17,112,18,15,16,16,14,16
+"Hag-Sea",14,52,16,13,16,12,12,13
+Harpy,11,38,12,13,12,7,10,13
+Hell Hound,15,45,17,12,14,6,13,6
+Helmed Horror,20,60,18,13,16,10,10,10
+Hippogriff,11,19,17,13,13,2,12,8
+Hobgoblin,18,11,13,12,12,10,10,9
+Hobgoblin Captain,17,39,15,14,14,12,10,13
+Hobgoblin Devastator,13,45,13,12,14,16,13,11
+Hobgoblin Iron Shadow,15,32,14,16,15,14,15,11
+Hobgoblin Warlord,20,97,16,14,16,14,11,15
+Homunculus,13,5,4,15,11,10,10,7
+Hook Horror,15,75,18,10,15,6,12,7
+Howler,16,90,17,16,15,5,20,6
+Howling Hatred Initiate,13,9,10,15,10,10,9,11
+Howling Hatred Priest,15,45,12,16,10,14,10,14
+"Howling Hatred-Feathergale Knight",16,33,14,14,12,11,10,14
+"Howling Hatred-Hurricane",14,33,12,16,13,10,12,10
+"Howling Hatred-Skyweaver",12,44,8,14,12,11,10,16
+Hulking Crab,17,76,19,8,16,3,11,3
+Hydra,15,172,20,12,20,2,10,7
+Ice Toad,12,32,13,10,14,8,10,6
+"Inevitable-Marut",22,432,28,12,26,19,15,18
+Intellect Devourer,12,21,6,14,13,12,11,10
+Invisible Stalker,14,104,16,19,14,10,15,11
+Ixitxachitl,15,18,12,16,13,12,13,7
+"Ixitxachitl-Vampiric",16,44,14,18,13,12,13,7
+Jackalwere,12,18,11,15,11,13,11,10
+Jaculi,14,16,15,14,11,2,8,3
+Kalka-Kylla,15,85,17,12,16,15,16,12
+Kamadan,13,67,16,16,14,3,14,10
+Kelpie,14,67,14,14,16,7,12,10
+Kenku,13,13,10,16,10,11,10,10
+Ki-Rin,20,152,21,16,16,19,20,20
+Kobold,12,5,7,15,9,8,7,8
+Kobold Dragonshield,15,44,12,15,14,8,9,10
+Kobold Inventor,12,13,7,15,12,8,7,8
+Kobold Scale Sorcerer,15,27,7,15,14,10,9,14
+"Kobold-Winged",13,7,7,16,9,8,7,8
+Korred,17,102,23,14,20,10,15,9
+Kraken,18,472,30,11,25,22,18,20
+"Kraken-Malformed",17,172,25,11,20,11,15,15
+Kruthik Hive Lord,20,102,19,16,17,10,14,10
+"Kruthik-Adult",18,39,15,16,15,7,12,8
+"Kruthik-Young",16,9,13,16,13,4,10,6
+Kuo-Toa,13,13,13,10,11,11,10,8
+Kuo-Toa Archpriest,13,97,16,14,16,13,16,14
+Kuo-Toa Whip,11,65,14,10,14,12,14,11
+Lamia,13,97,16,13,15,14,15,16
+Leucrotta,14,67,18,14,15,9,12,6
+Lich,17,135,11,16,16,20,14,16
+Lizard King/Queen,15,78,17,12,15,11,11,15
+Lizardfolk,15,22,15,10,13,7,12,7
+Lizardfolk Shaman,13,27,15,10,13,10,15,8
+"Lycanthrope-Werebear",11,135,19,10,17,11,12,12
+"Lycanthrope-Wereboar",11,78,17,10,15,10,11,8
+"Lycanthrope-Wererat",12,33,10,15,12,11,10,8
+"Lycanthrope-Wereraven",12,31,10,15,11,13,15,14
+"Lycanthrope-Weretiger",12,120,17,15,16,10,13,11
+"Lycanthrope-Werewolf",12,58,15,13,14,10,11,10
+Magmin,14,9,7,15,12,8,11,10
+Manticore,14,68,17,16,17,7,12,8
+Mantrap,12,45,15,14,12,1,10,2
+Meazel,13,35,8,17,9,14,13,10
+Medusa,15,127,10,15,16,12,13,15
+Meenlock,15,31,7,15,12,11,10,8
+"Mephit-Dust",12,17,5,14,10,9,11,10
+"Mephit-Ice",11,21,7,13,10,9,11,12
+"Mephit-Magma",11,22,8,12,12,7,10,10
+"Mephit-Mud",11,27,8,12,12,9,11,7
+"Mephit-Smoke",12,22,6,14,12,10,10,11
+"Mephit-Steam",10,21,5,11,10,11,10,12
+Merfolk,11,11,10,13,12,11,11,12
+Merrow,13,45,18,10,15,8,10,9
+Mimic,12,58,17,12,15,5,13,8
+Mind Flayer,15,71,11,12,12,19,17,17
+Mind Flayer Lich (Illithilich),17,135,11,16,16,20,14,16
+"Mind Flayer-Alhoon",15,120,11,12,16,19,17,17
+"Mind Flayer-Elder Brain",10,210,15,10,20,21,19,24
+"Mind Flayer-Ulitharid",15,127,15,12,15,21,19,21
+Mindwitness,15,75,10,14,14,15,15,10
+Minotaur,14,76,18,11,16,6,16,9
+"Misc. Creature-Ape",12,19,16,14,14,6,12,7
+"Misc. Creature-Awakened Shrub",9,10,3,8,11,10,10,6
+"Misc. Creature-Awakened Tree",13,59,19,6,15,10,10,7
+"Misc. Creature-Axe Beak",11,19,14,12,12,2,10,5
+"Misc. Creature-Baboon",12,3,8,14,11,4,12,6
+"Misc. Creature-Badger",10,3,4,11,12,2,12,5
+"Misc. Creature-Bat",12,1,2,15,8,2,12,4
+"Misc. Creature-Black Bear",11,19,15,10,14,2,12,7
+"Misc. Creature-Blink Dog",13,22,12,17,12,10,13,11
+"Misc. Creature-Blood Hawk",12,7,6,14,10,3,14,5
+"Misc. Creature-Boar",11,11,13,11,12,2,9,5
+"Misc. Creature-Brown Bear",11,34,19,10,16,2,13,7
+"Misc. Creature-Camel",9,15,16,8,14,2,8,5
+"Misc. Creature-Cat",12,2,3,15,10,3,12,7
+"Misc. Creature-Constrictor Snake",12,13,15,14,12,1,10,3
+"Misc. Creature-Crab",11,2,2,11,10,1,8,2
+"Misc. Creature-Crocodile",12,19,15,10,13,2,10,5
+"Misc. Creature-Death Dog",12,39,15,14,14,3,13,6
+"Misc. Creature-Deer",13,4,11,16,11,2,14,5
+"Misc. Creature-Dire Wolf",14,37,17,15,15,3,12,7
+"Misc. Creature-Draft Horse",10,19,18,10,12,2,11,7
+"Misc. Creature-Eagle",12,3,6,15,10,2,14,7
+"Misc. Creature-Elephant",12,76,22,9,17,3,11,6
+"Misc. Creature-Elk",10,13,16,10,12,2,10,6
+"Misc. Creature-Flying Snake",14,5,4,18,11,2,12,5
+"Misc. Creature-Frog",11,1,1,13,8,1,8,3
+"Misc. Creature-Giant Ape",12,157,23,14,18,7,12,7
+"Misc. Creature-Giant Badger",10,13,13,10,15,2,12,5
+"Misc. Creature-Giant Bat",13,22,15,16,11,2,12,6
+"Misc. Creature-Giant Boar",12,42,17,10,16,2,7,5
+"Misc. Creature-Giant Centipede",13,4,5,14,12,1,7,3
+"Misc. Creature-Giant Constrictor Snake",12,60,19,14,12,1,10,3
+"Misc. Creature-Giant Crab",15,13,13,15,11,1,9,3
+"Misc. Creature-Giant Crocodile",14,85,21,9,17,2,10,7
+"Misc. Creature-Giant Eagle",13,26,16,17,13,8,14,10
+"Misc. Creature-Giant Elk",14,42,19,16,14,7,14,10
+"Misc. Creature-Giant Fire Beetle",13,4,8,10,12,1,7,3
+"Misc. Creature-Giant Frog",11,18,12,13,11,2,10,3
+"Misc. Creature-Giant Goat",11,19,17,11,12,3,12,6
+"Misc. Creature-Giant Hyena",12,45,16,14,14,2,12,7
+"Misc. Creature-Giant Lizard",12,19,15,12,13,2,10,5
+"Misc. Creature-Giant Octopus",11,52,17,13,13,4,10,4
+"Misc. Creature-Giant Owl",12,19,13,15,12,8,13,10
+"Misc. Creature-Giant Poisonous Snake",14,11,10,18,13,2,10,3
+"Misc. Creature-Giant Rat",12,7,7,15,11,2,10,4
+"Misc. Creature-Giant Scorpion",15,52,15,13,15,1,9,3
+"Misc. Creature-Giant Sea Horse",13,16,12,15,11,2,12,5
+"Misc. Creature-Giant Shark",13,126,23,11,21,1,10,5
+"Misc. Creature-Giant Spider",14,26,14,16,12,2,11,4
+"Misc. Creature-Giant Toad",11,39,15,13,13,2,10,3
+"Misc. Creature-Giant Vulture",10,22,15,10,15,6,12,7
+"Misc. Creature-Giant Wasp",12,13,10,14,10,1,10,3
+"Misc. Creature-Giant Weasel",13,9,11,16,10,4,12,5
+"Misc. Creature-Giant Wolf Spider",13,11,12,16,13,3,12,4
+"Misc. Creature-Goat",10,4,12,10,11,2,10,5
+"Misc. Creature-Hawk",13,1,5,16,8,2,14,6
+"Misc. Creature-Hunter Shark",12,45,18,13,15,1,10,4
+"Misc. Creature-Hyena",11,5,11,13,12,2,12,5
+"Misc. Creature-Jackal",12,3,8,15,11,3,12,6
+"Misc. Creature-Killer Whale",12,90,19,10,13,3,12,7
+"Misc. Creature-Lion",12,26,17,15,13,3,12,8
+"Misc. Creature-Lizard",10,2,2,11,10,1,8,3
+"Misc. Creature-Mammoth",13,126,24,9,21,3,11,6
+"Misc. Creature-Mastiff",12,5,13,14,12,3,12,7
+"Misc. Creature-Mule",10,11,14,10,13,2,10,5
+"Misc. Creature-Octopus",12,3,4,15,11,3,10,4
+"Misc. Creature-Owl",11,1,3,13,8,2,12,7
+"Misc. Creature-Panther",12,13,14,15,10,3,14,7
+"Misc. Creature-Phase Spider",13,32,15,15,12,6,10,6
+"Misc. Creature-Poisonous Snake",13,13,2,16,11,1,10,3
+"Misc. Creature-Polar Bear",12,42,20,10,16,2,13,7
+"Misc. Creature-Pony",10,11,15,10,13,2,11,7
+"Misc. Creature-Quipper",13,1,2,16,9,1,7,2
+"Misc. Creature-Rat",10,1,2,11,9,2,10,4
+"Misc. Creature-Raven",12,1,2,14,8,2,12,6
+"Misc. Creature-Reef Shark",12,22,14,13,13,1,10,4
+"Misc. Creature-Rhinoceros",11,45,21,8,15,2,12,6
+"Misc. Creature-Riding Horse",10,13,16,10,12,2,11,7
+"Misc. Creature-Saber-Toothed Tiger",12,52,18,14,15,3,12,8
+"Misc. Creature-Scorpion",11,1,2,11,8,1,8,2
+"Misc. Creature-Sea Horse",11,1,1,12,8,1,10,2
+"Misc. Creature-Spider",12,1,2,14,8,1,10,2
+"Misc. Creature-Swarm of Bats",12,22,5,15,10,2,12,4
+"Misc. Creature-Swarm of Insects",12,22,3,13,10,1,7,1
+"Misc. Creature-Swarm of Poisonous Snakes",14,36,8,18,11,1,10,3
+"Misc. Creature-Swarm of Quippers",13,28,13,16,9,1,7,2
+"Misc. Creature-Swarm of Rats",10,24,9,11,9,2,10,3
+"Misc. Creature-Swarm of Ravens",12,24,6,14,8,3,12,6
+"Misc. Creature-Tiger",12,37,17,15,14,3,12,8
+"Misc. Creature-Vulture",10,5,7,10,13,2,12,4
+"Misc. Creature-Warhorse",11,19,18,12,13,2,12,7
+"Misc. Creature-Weasel",13,1,3,16,8,2,12,3
+"Misc. Creature-Winter Wolf",13,75,18,13,14,7,12,8
+"Misc. Creature-Wolf",13,11,12,15,12,3,12,6
+"Misc. Creature-Worg",13,26,16,13,13,7,11,8
+"Modron-Duodrone",15,11,11,13,12,6,10,7
+"Modron-Monodrone",15,5,1,13,12,4,10,5
+"Modron-Pentadrone",16,32,15,14,12,10,10,13
+"Modron-Quadrone",16,22,12,14,12,10,10,11
+"Modron-Tridrone",15,16,12,13,12,9,10,9
+Mongrelfolk,11,26,12,9,15,9,10,6
+Morkoth,17,130,14,14,14,20,15,13
+Mummy,11,58,16,8,15,6,10,12
+Mummy Lord,17,97,18,10,17,11,18,16
+Myconid Adult,12,22,10,10,12,10,13,7
+Myconid Sovereign,13,60,12,10,14,13,15,10
+Myconid Sprout,10,7,8,10,10,8,11,5
+Naergoth Bladelord,18,135,20,12,16,12,14,16
+"Naga-Bone",15,58,15,16,12,15,15,16
+"Naga-Guardian",18,127,19,18,16,16,19,18
+"Naga-Spirit",15,75,18,17,14,16,15,16
+Nagpa,19,187,9,15,12,23,18,21
+Neogi,15,33,6,16,14,13,12,15
+Neogi Hatchling,11,7,3,13,10,6,10,9
+Neogi Master,15,71,6,16,14,16,12,18
+Neothelid,16,325,27,7,21,3,16,12
+Nereid,13,44,10,17,12,13,14,16
+Nightmare,13,68,18,15,16,10,13,15
+Nightwalker,14,297,22,19,24,6,9,8
+Nilbog,13,7,8,14,10,10,8,15
+Nothic,15,45,14,16,16,13,10,8
+"NPC-Abjurer",12,84,9,14,14,18,12,11
+"NPC-Acolyte",10,9,10,10,10,10,14,11
+"NPC-Apprentice Wizard",10,9,10,10,10,14,10,11
+"NPC-Archdruid",16,132,10,14,12,12,20,11
+"NPC-Archer",16,75,11,18,16,11,13,10
+"NPC-Archmage",12,99,10,14,12,20,15,16
+"NPC-Assassin",15,78,11,16,14,13,11,10
+"NPC-Bandit",12,11,11,12,12,10,10,10
+"NPC-Bandit Captain",15,65,15,16,14,14,11,14
+"NPC-Bard",15,44,11,14,12,10,13,14
+"NPC-Berserker",13,67,16,12,17,9,11,9
+"NPC-Blackguard",18,153,18,11,18,11,14,15
+"NPC-Champion",18,143,20,15,14,10,14,12
+"NPC-Commoner",10,4,10,10,10,10,10,10
+"NPC-Conjurer",12,40,9,14,11,17,12,11
+"NPC-Cult Fanatic",13,33,11,14,12,10,13,14
+"NPC-Cultist",12,9,11,12,10,10,11,10
+"NPC-Diviner",12,67,9,14,11,18,12,11
+"NPC-Druid",11,27,10,12,13,12,15,11
+"NPC-Enchanter",12,40,9,14,11,17,12,11
+"NPC-Evoker",12,66,9,14,12,17,12,11
+"NPC-Gladiator",16,112,18,15,16,10,12,15
+"NPC-Guard",16,11,13,12,12,10,11,10
+"NPC-Illusionist",12,38,9,14,13,16,11,12
+"NPC-Knight",18,52,16,11,14,11,11,15
+"NPC-Kraken Priest",10,75,12,10,16,10,15,14
+"NPC-Mage",12,40,9,14,11,17,12,11
+"NPC-Martial Arts Adept",16,60,11,17,13,11,16,10
+"NPC-Master Thief",16,84,11,18,14,11,11,12
+"NPC-Necromancer",12,66,9,14,12,17,12,11
+"NPC-Noble",15,9,11,12,11,12,14,16
+"NPC-Priest",13,27,10,10,12,13,16,13
+"NPC-Scout",13,16,11,14,12,11,13,11
+"NPC-Spy",12,27,10,15,10,12,14,16
+"NPC-Swashbuckler",17,66,12,18,12,14,11,15
+"NPC-Thug",11,32,15,11,14,10,10,11
+"NPC-Transmuter",12,40,9,14,11,17,12,11
+"NPC-Tribal Warrior",12,11,13,11,12,8,11,8
+"NPC-Veteran",17,58,16,13,14,10,11,10
+"NPC-War Priest",18,117,16,10,14,11,17,13
+"NPC-Warlock of the Archfey",11,49,9,13,11,11,12,18
+"NPC-Warlock of the Fiend",12,78,10,14,15,12,12,18
+"NPC-Warlock of the Great Old One",12,91,9,14,15,12,12,18
+"NPC-Warlord",18,229,20,16,18,12,12,18
+Oblex Spawn,13,18,8,16,15,14,11,10
+"Oblex-Adult",14,75,8,19,16,19,12,15
+"Oblex-Elder",16,115,15,16,21,22,13,18
+Ogre,11,59,19,8,16,5,7,7
+Ogre Battering Ram,14,59,19,8,16,5,7,7
+Ogre Bolt Launcher,13,59,19,12,16,5,7,7
+Ogre Chain Brute,11,59,19,8,16,5,7,7
+Ogre Howdah,13,59,19,8,16,5,7,7
+"Ogre-Half",12,30,17,10,14,7,9,10
+Oni,16,110,19,11,16,14,12,15
+Ooze Master,9,138,16,1,20,17,10,16
+"Ooze-Black Pudding",7,85,16,5,16,1,6,1
+"Ooze-Gelatinous Cube",6,84,14,3,20,1,6,1
+"Ooze-Gray",8,22,12,6,16,1,6,2
+"Ooze-Ochre Jelly",8,45,15,6,14,2,6,1
+Orc,13,15,16,12,16,7,11,10
+Orc Blade of Ilneval,18,60,17,11,17,10,12,14
+Orc Claw of Luthic,14,45,14,15,16,10,15,11
+Orc Eye of Gruumsh,16,45,16,12,16,9,13,12
+Orc Hand of Yurtrus,12,30,12,11,16,11,14,9
+Orc Nurtured One of Yurtrus,9,30,15,8,16,7,11,7
+Orc Red Fang of Shargaas,15,52,11,16,15,9,11,9
+Orc War Chief,16,93,18,12,18,11,11,16
+"Orc-Orog",18,42,18,12,18,12,11,12
+"Orc-Tanarukk",14,95,18,13,20,9,9,9
+Otyugh,14,114,16,11,19,6,13,6
+Owlbear,13,59,20,12,17,3,12,7
+Pegasus,12,59,18,15,16,10,15,13
+Peryton,13,33,16,12,13,9,12,10
+Phantom Warrior,16,45,16,11,16,8,10,15
+Piercer,15,22,10,13,16,1,7,3
+Pixie,15,1,2,20,8,10,14,15
+"Prince of Apocalypse-Imix",17,325,19,24,22,15,16,23
+"Prince of Apocalypse-Ogremoch",20,526,26,11,28,11,15,22
+"Prince of Apocalypse-Olhydra",18,324,21,22,24,17,18,23
+"Prince of Apocalypse-Yan-C-BIn",22,283,18,24,24,16,21,23
+Pseudodragon,13,7,6,15,13,10,12,10
+Pterafolk,12,26,15,13,12,9,10,11
+Purple Worm,18,247,28,7,22,1,8,4
+"Purple Worm-Wormling",12,42,16,7,16,1,6,2
+Quaggoth,13,45,17,12,16,6,12,7
+Quickling,16,10,4,23,13,10,12,7
+Rakshasa,16,110,14,17,18,13,16,20
+Redcap,13,45,18,13,18,10,12,9
+Remorhaz,17,195,24,13,21,4,10,5
+"Remorhaz-Young",14,93,18,13,17,3,10,4
+Retriever,19,210,22,16,20,3,11,4
+Revenant,13,136,18,14,18,13,16,18
+Roc,15,248,28,10,20,3,10,9
+Roper,20,93,18,8,17,7,16,6
+Rust Monster,14,27,13,12,13,2,13,6
+Sahuagin,12,22,13,11,12,12,13,9
+Sahuagin Baron,16,76,19,15,16,14,13,17
+Sahuagin Priestess,12,33,13,11,12,12,14,13
+Salamander,15,90,18,14,15,11,10,12
+"Salamander-Fire Snake",14,22,12,14,11,7,10,8
+"Salamander-Frost",17,168,20,12,18,7,11,7
+Satyr,14,31,12,16,11,12,10,14
+Scarecrow,11,36,11,13,11,10,10,13
+Sea Lion,15,90,17,15,15,3,12,8
+Sea Spawn,11,32,15,8,15,6,10,8
+Shadar-Kai Gloom Weaver,14,104,11,18,14,15,12,18
+Shadar-Kai Shadow Dancer,15,71,12,16,13,11,12,12
+Shadar-Kai Soul Monger,15,123,8,17,14,19,15,13
+Shadow,12,16,6,14,13,6,10,8
+Shadow Mastiff,12,33,16,14,13,5,12,5
+Shadow Mastiff Alpha,12,48,16,14,13,6,12,5
+Shambling Mound,15,136,18,8,16,5,10,5
+Shield Guardian,17,142,18,8,18,7,1,
+Siren,14,38,10,18,12,13,14,16
+Skeleton,13,13,10,14,15,6,8,5
+"Skeleton-Giant",17,115,21,10,20,4,6,6
+"Skeleton-Minotaur",12,67,18,11,15,6,8,5
+"Skeleton-Warhorse",13,22,18,12,15,2,8,5
+Skulk,14,18,6,19,10,10,7,1
+Skull Lord,18,105,14,16,17,16,15,21
+Slaad Tadpole,12,10,7,15,10,3,5,3
+"Slaad-Blue",15,123,20,15,18,7,7,9
+"Slaad-Death",18,170,20,15,19,15,10,16
+"Slaad-Gray",18,127,17,17,16,13,8,14
+"Slaad-Green",16,127,18,15,16,11,8,12
+"Slaad-Red",14,93,16,12,16,6,6,7
+Slithering Tracker,14,32,16,19,15,10,14,11
+"Sorrowsworn-The Angry",18,255,17,10,19,8,13,6
+"Sorrowsworn-The Hungry",17,225,19,10,17,6,11,6
+"Sorrowsworn-The Lonely",16,112,16,12,17,6,11,6
+"Sorrowsworn-The Lost",15,78,17,12,15,6,7,5
+"Sorrowsworn-The Wretched",15,10,7,12,9,5,6,5
+Spawn of Kyuss,10,76,16,11,18,5,7,3
+Specter,12,22,1,14,11,10,10,11
+"Sphinx-Andro",17,199,22,10,20,16,18,23
+"Sphinx-Gyno",17,136,18,15,16,18,18,18
+Sprite,15,2,3,18,10,14,13,11
+Star Spawn Grue,11,17,6,13,10,9,11,6
+Star Spawn Hulk,16,136,20,8,21,7,12,9
+Star Spawn Larva Mage,16,168,17,12,23,18,12,16
+Star Spawn Mangler,14,71,8,18,12,11,12,7
+Star Spawn Seer,17,153,14,12,18,22,19,16
+"Steeder-Female",14,30,15,16,14,2,10,3
+"Steeder-Male",12,13,15,12,14,2,10,3
+Steel Predator,20,207,24,17,22,4,14,6
+Stirge,14,2,4,16,11,2,8,6
+Stone Cursed,17,19,16,5,14,5,8,7
+Stone Juggernaut,15,157,22,1,21,2,11,3
+Strahd's Animated Armor,21,112,17,13,16,9,10,9
+Su-Monster,12,27,14,15,12,9,13,9
+Succubus/Incubus,15,66,8,17,13,15,12,20
+Sword Wraith Commander,18,127,18,14,18,11,12,14
+Sword Wraith Warrior,16,45,18,12,17,6,9,10
+Tabaxi Hunter,14,40,10,17,11,13,14,15
+Tabaxi Minstrel,12,22,10,15,11,14,12,16
+Tarrasque,25,676,30,11,30,3,11,11
+Tecuziztecatl,13,102,17,10,16,15,16,13
+Thayan Apprentice,12,27,10,14,12,15,13,11
+Thayan Warrior,16,52,16,13,14,10,11,11
+Thorn Slinger,11,32,13,12,12,1,10,1
+Thorny,14,27,13,12,13,2,10,6
+Thri-Kreen,15,33,12,15,13,8,12,7
+Tiamat,25,615,30,10,30,26,26,28
+Tiny Servant,15,10,4,16,10,2,10,1
+Tlincalli,15,85,16,13,16,8,12,8
+Topi,13,13,7,15,12,6,10,5
+Tortle,17,22,15,10,12,11,13,12
+Tortle Druid,17,33,14,10,12,11,15,12
+Trapper,13,85,17,10,17,2,13,4
+Treant,16,138,23,8,21,12,16,12
+Tressym,12,5,3,15,10,11,12,12
+Tri-Flower Frond,10,11,1,10,12,1,10,1
+Troglodyte,11,13,14,10,14,6,10,6
+Troglodyte Champion of Laogzed,14,59,18,12,18,8,12,12
+Troll,15,84,18,13,20,7,9,7
+"Troll-Dire",15,172,22,15,21,9,11,5
+"Troll-Rot",16,138,18,13,22,5,8,4
+"Troll-Spirit",17,97,1,17,13,8,9,16
+"Troll-Venom",15,94,18,13,20,7,9,7
+Umber Hulk,18,93,20,13,16,9,10,10
+Unicorn,12,67,18,14,15,11,17,16
+Uthgardt Shaman,13,38,14,12,13,10,15,12
+Vampire,16,144,18,18,18,17,15,18
+Vampire Spawn,15,82,16,16,16,11,10,12
+Vampiric Mist,13,30,6,16,16,6,12,7
+Vargouille,12,13,6,14,14,4,7,2
+Vegepygmy,13,9,7,14,13,6,11,7
+Vegepygmy Chief,14,33,14,14,14,7,12,9
+Water Weird,13,58,17,16,13,11,10,10
+White Maw,5,217,18,1,20,12,10,3
+Wight,14,45,15,14,16,10,13,15
+Will-O'-Wisp,19,22,1,28,10,13,14,11
+Wood Woad,18,75,18,12,16,10,13,8
+Wraith,13,67,6,16,16,12,14,15
+Wyvern,13,110,19,1,16,5,12,6
+Xorn,19,73,17,10,22,11,10,11
+Xvart,13,7,8,14,10,8,7,7
+Xvart Speaker,13,7,8,14,10,13,7,7
+Xvart Warlock of Raxivort,12,22,8,14,12,8,11,12
+Yakfolk Priest,12,52,16,11,15,14,18,14
+Yakfolk Warrior,11,60,18,11,15,14,15,14
+Yellow Musk Creeper,6,60,12,3,12,1,10,3
+Yellow Musk Zombie,9,33,13,9,12,1,6,3
+Yeth Hound,14,51,18,17,16,5,12,7
+Yeti,12,51,18,13,16,8,12,7
+"Yeti-Abominable",15,137,24,10,22,9,13,9
+Yuan-Ti Abomination,15,127,19,16,17,17,15,18
+Yuan-Ti Anathema,16,189,23,13,19,19,17,20
+Yuan-Ti Broodguard,14,45,15,14,14,6,11,4
+Yuan-Ti Malison,12,66,16,14,13,14,12,16
+Yuan-Ti Mind Whisperer,14,71,16,14,13,14,12,16
+Yuan-Ti Nightmare Speaker,14,71,16,14,13,14,12,16
+Yuan-Ti Pit Master,14,88,16,14,13,14,12,16
+Yuan-Ti Pureblood,11,40,11,12,11,13,12,14
+"Yugoloth-Arcana",17,104,17,12,14,20,16,17
+"Yugoloth-Cano",16,120,18,10,17,5,17,12
+"Yugoloth-Dhergo",15,119,17,10,19,7,10,9
+"Yugoloth-Hydro",15,135,12,21,16,19,10,14
+"Yugoloth-Merreno",13,40,8,17,10,17,14,11
+"Yugoloth-Mezzo",18,75,18,11,16,7,10,11
+"Yugoloth-Nyca",18,123,20,11,19,12,10,15
+"Yugoloth-Oino",17,126,19,17,18,17,16,19
+"Yugoloth-Ultro",19,153,16,16,18,18,15,19
+"Yugoloth-Yagno",17,147,19,14,21,16,15,18
+Zombie,8,22,13,6,16,3,6,5
+"Zombie-Ankylosaurus",14,68,19,9,15,2,6,3
+"Zombie-Beholder",15,93,10,8,16,3,8,5
+"Zombie-Girallon",11,59,18,12,16,3,7,5
+"Zombie-Greater",15,97,18,10,17,4,6,6
+"Zombie-Ogre",8,93,19,6,18,3,6,5
+"Zombie-Strahd",8,30,13,6,16,3,6,5
+"Zombie-Tyrannosaurus",11,136,25,6,19,1,3,5
+Zorbo,10,27,13,11,13,3,12,7
+"Zuggtmoy-Bridesmaid",13,22,14,11,11,14,8,18
+"Zuggtmoy-Chamberlain",13,45,17,7,14,11,8,12
