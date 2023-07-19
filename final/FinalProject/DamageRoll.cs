@@ -1,15 +1,15 @@
 public class DamageRoll:DiceRoll{
-
-    public DamageRoll(int sides, int mod, int quantity):base(sides,mod,quantity){
-
+    private int _quanity;
+    private int _damage;
+    public DamageRoll(int sides, int mod, int quantity):base(sides,mod){
+        _quanity = quantity;
     }
-
-    public override void RollDice()
-    {
-        base.RollDice();
-    }
-    public override void Calculate()
-    {
-        base.Calculate();
+    public override int Calculate(){
+        for (int i=0; i<_quanity; i++){
+            int roll = RollDice();
+            _damage = _damage+roll;
+        }
+        _damage = _damage+_modifier;
+        return _damage;
     }
 }

@@ -1,16 +1,14 @@
 public class InitiativeRoll:DiceRoll{
+    private int _initiative;
 
-    public InitiativeRoll(int sides, int mod, int quantity):base(sides,mod,quantity){
+    public InitiativeRoll(int sides, int mod):base(sides,mod){
 
     }
-
-    public override void RollDice()
-    {
-        base.RollDice();
-    }
-    public override void Calculate()
-    {
-        base.Calculate();
+    public override int Calculate()
+    {   
+        int roll = RollDice();
+        _initiative = roll+_modifier;
+        return _initiative;
     }
 
 }

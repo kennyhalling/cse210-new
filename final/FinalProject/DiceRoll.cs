@@ -1,20 +1,21 @@
-public class DiceRoll{
+public abstract class DiceRoll{
     private Random _random = new Random();
     private int _sides;
+    private Random _rand = new Random();
     private int _roll;
-    private int _modifier;
-    private int _quantity;
+    protected int _modifier;
 
-    public DiceRoll(int sides, int mod, int quantity){
+    public DiceRoll(int sides, int mod){
         _sides = sides;
         _modifier = mod;
-        _quantity = quantity;
     }
 
-    public virtual void RollDice(){
-        
+    public int RollDice(){
+        _roll = _rand.Next(_sides+1);
+        if( _roll == 0){
+            _roll = _roll+1;
+        }
+        return _roll;
     }
-    public virtual void Calculate(){
-        
-    }
+    public abstract int Calculate();
 }
